@@ -1,0 +1,41 @@
+On May 29, 2020, Amtrak revealed in a security advisory that a security incident affected the personal information, usernames, and passwords of its users. However, no credit card information, financial details, or Social Security numbers were compromised.
+It was determined that an unauthorized third-party gained access to the Amtrak Guest Rewards accounts on April 16, 2020. Amtrak hired cybersecurity experts to investigate the incident, reset users’ passwords, and implemented additional security measures to prevent incidents in the future. The affected customers and federal law enforcement were notified. Amtrak is also offering complimentary one-year identity protection services to all impacted customers.
+Arm yourself against cybersecurity disasters like this by investing in an all-encompassing tool that will protect your network from brute-force attacks, ransomware threats, and denial-of-service (DoS) attacks. Download ManageEngine Log360, a comprehensive solution to help you combat both internal and external security attacks.
+Log360, our comprehensive SIEM solution, can help your organization by:
+Download a free trial of Log360 to see the tool in action for yourself.
+Share:
+Subscribe to our digest to get your weekly dose of cyber security updates straight to your inbox.
+By clicking 'I’m interested', you agree to processing of personal data according to the Privacy Policy
+© 2019 Zoho Corporation Pvt. Ltd. All rights reserved.
+You will receive weekly cybersecurity news soon!
+r example, during the first week of June, Akamai mitigated a massive DDoS attack against an (unnamed) internet hosting provider.
+The 1.44 Tbps attack – the largest Akamai has ever seen – lasted for two hours and came from globally-distributed traffic, instead of the more normal pattern of originating from a specific region or country.
+Neustar has witnessed a steady and continuing rise in DNS traffic in mid-March, correlating with the dates that schools and organizations began to implement isolation policies amid the Covid-19 pandemic.
+The firm – which operates the UltraDNS network that spans 30 globally distributed nodes – saw a 14% increase in DNS query volumes between March 1 and May 3, as the full impact of the outbreak set in around the world.
+In particular, queries to retail companies and streaming services increased, while traffic and travel-related website fell sharply before demonstrating a recent recovery.
+The figures are taken from Neustar’s ‘Online Traffic and Cyber Attacks During Covid-19’ report.
+This latest data comes on the heels of Kaspersky’s Q1 2020 DDoS attacks report, which pointed to a sharp increase in volumetric attacks against the websites of healthcare organizations, delivery services, and gaming and education platforms.
+READ MORE Adversarial attacks against machine learning systems – everything you need to know
+
+
+John Leyden
+
+
+
+@jleyden 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+c Relations.
+
+ABC Family killed "controversial" "Alice in Arabia" rather than offend Muslims. The TV show "South Park" depicted Mohammed in a bear suit in one episode, to avoid showing an actual image. The writers still received death threats. Comedy Central killed the next episode before Islamists did the same to its staff. Two Muslim converts were convicted in the case.
+
+A Facebook protest of the "South Park" fiasco called "Everybody Draw Mohammed Day" resulted in more threats. Artist Molly Norris ended up "moving, changing her name and essentially wiping away her identity," according to The Seattle Weekly.
+
+Even a Yale University Press book about the Danish cartoon controversy wouldn't include the images that were the subject matter of the book "because the University and the Press are concerned about a possible resurgence of violence," wrote The Yale Daily News. Then why do the book at all?
+
+Journalists labeled those criticizing Islam "phobes," rather than blame Muslims. Time ran a cover story asking "Is America Islamophobic?" with the preconceiv

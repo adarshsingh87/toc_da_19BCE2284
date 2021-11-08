@@ -1,0 +1,22 @@
+Safety is about protecting humans from machines while cybersecurity is about protecting machines from humans. One may argue on this statement whose source I was unable to find anymore, but we cannot negate that humans and machines are getting stronger interlinked every day. Moreover, the futurist and inventor Ray Kurzweil predicts that the human-machine civilization is our destiny.
+Given that interactions between computers and human (natural) languages are based on language processing, it became increasingly important to upskill the computers in processing and analyzing large amounts of language data. Thus, the role of Natural Language Processing in the humans-machines interaction, and consequently also in the cybersecurity-world starts to gain traction. So what may be the role and applications of NLP in cybersecurity?
+There are two main drivers nurturing the human-machine teaming in cybersecurity activities, and language is the main tool for both of them:
+ 
+ 
+It could be empirically deducted from the recent years progresses, and from the exploding numbers of applications and researches, that machine learning for language processing plays an increasingly important role in the human-machine teaming. Its analytical and generative capabilities for speech and text are thus making it an important tool in the hands of all types of actors around cybersecurity.
+To stress this idea, here are some NLP tasks that may be considered in creating threat or attack tools, or in defending humans and machines:
+ 
+As you may see on paperswithcode.com/area/nlp, or on statista.com, or on many other sources, the number and the market of NLP applications is in a constant grow. Given that any IT system or application must consider the cybersecurity component nowadays, the role of NLP for this domain is also increasing. The plethora of researches and algorithms released every day may be therefore used for a suite of cybersecurity applications. The diagram below depicts some of them. It is split in 3 different types of usages, as follows:
+beatings and arbitrary arrests of demonstrators", "excessive force", "repressing critical news reporting and demonstrations", "suppressing dissenting views", and "serious rights abuses, including credible allegations of torture", for which "no security officials were convicted".
+
+As such, the PA is not only failing to curb Israeli abuses, but is busy perpetrating its own, all under Abbas' watch.
+
+The PA has garnered a reputation among Palestinians for managing the occupation rather than striving to end it. One way it does this is "security coordination" with Israel, which Abbas described last year as "sacred" despite the vast majority of Palestinians opposing it.
+
+Such coordination serves Israel by enabling it to subcontract its occupation, and serves the PA by helping it suppress internal dissent. It certainly does not benefit the Palestinian people.
+
+Abbas and his foreign minister have made grotesque assurances that as long as he is president, he will not allow an uprising against Israel. So the PA, which is supposed to be part of a national liberation struggle, is willing to put down an uprising by its own people against their subjugation. This is nothing short of betrayal.
+
+For more than 20 years, the PA has participated in a "peace process" that has greatly entrenched Israeli control. Abbas himself was an architect of the disastrous Oslo Accords. The occupied territories are now so colonised and fragmented that a viable Palestinian state is widely considered impossible. Yet,  Abbas still wants to negotiate, despite Israel being clearly opposed to Palestinian self-determination.
+
+What, then,  is the point of negotiating? Perhaps to preserve the privileged elites to which the PA and the "peace process" gave birth. After all,  allegations of corruption and nepotism, including Abbas and his family, are nothing new. With the help of international aid, the PA is the largest employer of Palestinians, much like other autocracies that encourage public dependence on the state to avoid mass unres

@@ -1,0 +1,43 @@
+Five-year anniversary for crime-busting website
+
+No More Ransom has celebrated its fifth anniversary of helping victims to recover from ransomware attacks.
+The decryptors available in the No More Ransom repository have helped more than 600,000 people to recover their files without having to pay malware-peddling criminals.
+The portal – available in 37 languages – offers 121 free tools capable of decrypting 151 ransomware families.
+The No More Ransom initiative was created by the National High Tech Crime Unit of the Dutch National Police, Europol’s European Cybercrime Centre, Kaspersky, and McAfee. Five years on, the project has brought together 170 partners from the public and private sectors internationally.
+Members of the initiative publish decryption tools on the website. These tools, which typically exploit weaknesses in malware encryption routines, help victims of specific ransomware families get their data back without paying.
+Backers of the scheme estimate it has deprived criminals of €900 million (US$1.06 billion).
+The No More Ransom project has helped more than 600,000 people get their data back
+The No More Ransom website has recently been revamped to mark the project’s fifth birthday.
+Alongside decryption tools, the self-described new home of the ‘Crypto Sheriff’ also offers advice on how to prevent a ransomware infection and instructions on how to report a cybercrime in a particular country.
+Elsewhere, the US recently established StopRansomware – a similar initiative backed by the US Cybersecurity and Infrastructure Security Agency.
+YOU MAY ALSO LIKE Multiple encryption flaws uncovered in Telegram messaging protocol
+
+
+John Leyden
+
+
+
+@jleyden 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+ silver bullet, but ransomware is really just the end of a long attack chain: they’ve compromised your external perimeter, gotten into your internals, pivoted, got credentials, then at the very end they monetize it with ransomware.
+The way to defend against that is stop them at the perimeter.
+Software supply chain attacks have become a hot topic in 2021
+Are security vulnerabilities destined to become even more prolific and damaging as the ecosystem becomes more sophisticated and the attack surface grows?
+AP: Every year I have a bit of an impostor syndrome, where I’m an old dinosaur looking for memory corruption bugs, and I stave that off by finding some really crucial, high-severity vulnerability.
+As the industry grows at an exponential rate, I don’t think we have matured as far as we should from a code production standpoint.
+Just look at the CVEs from the last decade – it’s just going up and up. There’s more and more code being put out there, more and more technical debt accruing.
+We don’t have the luxury of burning down the internet and starting over. I don’t see it getting any easier.
+Does this make the timing of vulnerability disclosures more difficult than ever?
+AP: At Randori we want to give our customers a nation-state experience with real zero-days so they can validate their controls. To do that, we need to withhold disclosure for a time, to give them that experience. Is this being actively exploited in the wild? Do we feel responsibility to disclose? There’s no easy answer.
+It’s a double-edged sword. You have to strike a balance between protecting users at large and making sure you’re not enabling attackers to run rampant with a given capability.
+Read more of the latest infosec interviews
+The theme tends to be that attackers move a lot quicker than defenders.
+There were like 18,000 vulnerabilities in 2020. How are they supposed to know which ones they need to prioritize and patch?
+President Biden has, on the face of it, been fairly proactive on the cybersecurity front – is he on the right track?
+AP: The administration is making good steps insofar as bringing it to light, starting initiatives, hiring a new CISA director, and getting a conversation started with various other nation states about what we’re

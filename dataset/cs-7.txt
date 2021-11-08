@@ -1,0 +1,34 @@
+A cyberattack targeted Israel’s Bar Ilan University Sunday, the school reported. An internal email sent out by the university’s IT department said the attack was ongoing and urged staff to shut down their computers.
+
+“A serious cyberattack is underway right now against Bar Ilan University,” the internal mail said. “The attack involves data being erased or encrypted,” they noted, likely indicating a criminal motive, rather than espionage. It may be a ransomware attack, or what is called a “wiper” attack: In both cases, the victim’s data or network is taken over and access to it is restored only if a ransom is paid to the hackers. If no payment is made, the data is erased or remains locked behind the hackers’ encryption.
+
+“The directive now is to shut down all computers hooked up to the network and wait for further instructions,” the email concluded.
+
+The university told Haaretz that the event was being taken care of by a group of specialists.
+
+“A limited group of computers on our research network faced a small cyber incident,” the university said. “Our management is handling the incident with cyber experts from within our university and together with Israel’s National Cyber Directorate.
+
+“From what we know now, this is a limited incident and the work and studies at the university will continue as planned.”
+
+Israel’s academic institutions are among the country's most frequent cyberattack targets. This week, it was revealed that a massive cyber operation led by the Chinese state against Israel – the first case of such an attack happening – also targeted academic institutions.
+
+In first massive cyberattack, China targets Israel
+Iranian attack on Israeli medical orgs proves there’s no vaccine for the cyber pandemic
+'The Plague': Israel braces for cyber-doomsday
+The attack was revealed by FireEye, which said in a report that the Israeli targets included state bodies and as well as private organizations from the fields of shipping, high-tech, telecommunications, defense, academia and information technology.
+
+By analyzing the hacking tools used and comparing them to similar attacks in the past, FireEye concluded that Chinese intelligence services and their Ministry of State Security was behind the attack. Similar attacks have been reported in the past: For example, there were a number of attempts to hack institutes involved in the coronavirus vaccine.   
+
+Earlier this year, it was revealed that the BadBlood hacking group, considered a proxy for Iran’s Revolutionary Guards, targeted specialists in genetics, neurology and oncology as well as others in over 20 medical professionals in Israel and the United States.sa20 encryption algorithm found in a decryptor shared by BleepingComputer was previously only used by DarkSide, and now BlackMatter.
+
+"After looking into a leaked BlackMatter decryptor binary I am convinced that we are dealing with a Darkside rebrand here," Wosar said.
+
+"Crypto routines are an exact copy pretty much for both their RSA and Salsa20 implementation including their usage of a custom matrix."
+
+The notorious DarkSide ransomware gang, now rebranded as BlackMatter, is actively attacking corporate entities but says it won't target the "Oil and Gas industry (pipelines, oil refineries)," which previously attracted much-unwanted attention and forced them to rebrand.ic scenario since it’s common for users to use the same credentials across a variety of services. Using a password manager is an effective way to make your first line of authentication — your username/password login — more secure.
+
+Once the app is installed, the attacker can apply simple social engineering techniques to convince the user to enable the permissions required for the app to function properly.
+
+For example, they may pretend to be calling from a legitimate service provider to persuade the user to enable the permissions. After this they can remotely receive all communications sent to the victim’s phone, including one-time codes used for 2FA.
+
+Although multiple co

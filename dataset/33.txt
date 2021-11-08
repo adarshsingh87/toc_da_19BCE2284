@@ -1,0 +1,40 @@
+Cyber-attack ‘limited to internal systems’
+
+D-Box said it is recovering from a ransomware attack that partially paralyzed many of its IT systems earlier this month.
+In a statement issued on Wednesday (July 29), the Canadian immersive entertainment technology provider said it was “gradually resuming its activities following a ransomware cyber-attack” first publicly disclosed on July 14.
+“All major IT systems have been restored and the restoration work should be finalized in the next few weeks,” D-Box said.
+“Production was never completely interrupted, and recovery of its various internal IT systems has begun.”
+The company said it had worked with incident response experts to determine that the impact of the cyber-attack was “limited to internal systems, and that its services to studios and theatre operators were not affected”.
+Catch up on the latest ransomware news and analysis
+The attack has prompted D-Box to delay the planned announcement of its latest quarterly financial results by up to a month past an August 14 deadline.
+The firm, which makes haptic seating for home cinemas and commercial theatres, was able to say that its revenue for the quarter ending June 30, 2021 was $3.1 million, up 40% from the same quarter last year.
+Sebastien Mailhot, president and chief executive of D-Box, said that the company “believes that the financial impact of this cyber-attack on the results should be negligible”.
+The strain of ransomware, much less how it infected D-Box’s systems, remains unclear.
+RELATED Kaseya denies ransomware payment as it hails ‘100% effective’ decryption tool
+The Daily Swig has contacted the vendor on that point, as well as to ask whether or not it had to resort to paying criminals in order to restore its systems. We’ll update this story as and when more information comes to hand.
+In its statement, D-Box said it didn’t anticipate any need to issue patches or service updates to partners because of the cyber-assault, which on this evidence is not being treated as a software supply chain attack.
+D-Box is, however, offering its employees identity theft prevention services at no cost for 12 months, as a precaution.
+YOU MAY ALSO LIKE DDoS attacks recede as cryptocurrency price drops
+
+
+John Leyden
+
+
+
+@jleyden 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+5 months of data from Dropbox’s enterprise network, composed of more than 780 million login events that included 326 simulated attacks by a red team.
+The tool was able to detect 94.5% of attacks while producing eight times fewer false alarms than other lateral movement detection tools.
+While there’s much excitement in the security industry about using deep learning to detect network intrusions, the developers of Hopper used basic statistical models and very simple rules to filter out benign login paths and identify suspicious activity.
+READ MORE Machine learning security vulnerabilities are a growing threat to the web, report highlights
+“We are using a more manual anomaly detection approach, that blends manual rules with statistical anomaly detection,” Grant Ho, Ph.D. candidate in computer science, UC Berkeley, a member of the research team that developed Hooper, told The Daily Swig.
+“There is a lot of excitement about deep learning right now, but for security purposes where you have extreme class imbalances and no labeled data, deep learning is often the wrong tool to use.”
+Ho said that while Hopper has been trained on data from the Dropbox network, it should work just as well for other organizations because the basic rules of lateral movement remain consistent across enterprise networks and different attacks.
+“Each new enterprise should train Hopper on their own network's data, but unlike traditional machine learning models Hopper doesn't have any hyper-parameters that need tuning; an organization only needs to specify how many alerts for lateral movement it would like to see, and the rest of Hopper can run without parameter tuning,” he said.
+Ho

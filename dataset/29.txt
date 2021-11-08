@@ -1,0 +1,48 @@
+Thousands of Social Security numbers may have been compromised
+
+A data breach at a New York university has potentially exposed the personal information of nearly 47,000 individuals.
+The Research Foundation for the State University of New York (SUNY) announced it detected unauthorized access to its networks earlier this year.
+The incident was discovered on July 14, and reportedly involved Social Security numbers.
+
+Read more of the latest data breach news
+A total of more than 46,700 individuals are said to be impacted by the data breach, although it’s not stated whether these people are employees, donors, or others who might be linked to the organizations.
+A security advisory (PDF) hosted on the office of the Maine Attorney General’s website offers more details about the incident:
+
+
+
+The organization has pledged to provide eligible individuals a complimentary, one-year credit monitoring and identity theft protection services.
+Security overhaul
+“To help prevent something like this from happening again, Research Foundation is taking and has taken steps to further enhance the security of its network,” the foundation said.
+These steps include the implementation of multi-factor authentication and deploying an endpoint detection and response tool throughout its network.
+READ Data breach class actions: US Supreme Court decision may tilt the odds in favor of defendant organizations
+
+
+Jessica Haworth
+
+
+
+@JesscaHaworth 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+ postcolonial studies. As western colonisers encounter non-European natives, they began to think of their "other" in one of two antithetical ways - either as a barbaric savage or a noble savage.
+
+To the colonisers, the hostile savage is inherently dangerous in a sub-human way and always an enemy to the civilised individual. Meanwhile,  the noble savage is romanticised as innately benign. Untouched by modernisation, the noble savage should be admired and protected.
+
+Transposed to modern times, the hostile savage translates as the bad Muslim and the noble savage - the good Muslim. Yet,  barbaric or noble, a savage is still a savage. The hashtag #illridewithyou is just as patronising.
+
+Another factor that cast doubt to #illridewithyou relates to this question: Was the perpetrator Man Haron Monis the quintessential Islamic extremist? If the slate of profile pieces that are now just flooding our newsfeed can be taken as a gauge, the jury is still out on this.
+
+At first glance, one may indeed be tempted to fit him into the mould of what some security experts have called "bedroom jihadists", a fashionable term to describe self-radicalised individuals who have been recruited online to plan and execute terror attacks that would advance the cause of clandestine Islamist organisations.
+
+Yet Monis was a man of many masks. Closer inspection would reveal that he does not nestle comfortably into this category. His demands may have included an ISIL flag, but he made no strategic overtures that would advance the cause of any oppressed Muslim groups. At this juncture, it is doubtful if he had even made contact with ISIL.
+
+Let us also not forget that Monis was not a nobody who was secretly being turned to the ways of ISIL or any other Islamist agenda. In fact,  he was a well-known criminal. Not only had Monis been charged with being an accessory to the brutal murder of his wife last year, he had also been slapped with 22 counts of aggravated sexual assault and 14 counts of aggravated indecent assault. In addition,  information has surfaced that he had been charged with fraud in Iran, which requested his extradition from Australia some 14 years ago.
+
+As a friend rightly pointed out on social media, Monis' criminal records qualify him as a "sexual predator and misogynist". Yet,  this more dominant aspect of his identity has not stopped the rest of the world from linking the Sydney siege to the threat of Islamic fundamentalism.
+
+Yet consider this. During the Sydney siege, a shooting spree incidence unfolde

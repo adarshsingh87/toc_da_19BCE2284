@@ -1,0 +1,32 @@
+Representative image. (Photo: Getty Images)
+The Reserve Bank on Thursday came out with a five-pillared strategic approach 'GUARD' to deal with cybersecurity threats being faced by urban cooperative banks (UCBs). The number, frequency and impact of cyber incidents and attacks have increased manifold in the recent past, more so in the case of the financial sector, including UCBs, RBI said in its document 'Technology Vision for Cyber Security for Urban Cooperative Banks 2020-2023'.  
+It has, therefore, become essential to enhance the security posture of UCBs to prevent, detect, respond to and recover from cyber-attacks, the central bank said. The five-pillared strategic approach 'GUARD' comprises Governance Oversight, Utile Technology Investment, Appropriate Regulation and Supervision, Robust Collaboration and Developing necessary IT and cybersecurity skills set. 
+The technology vision document, which was formalised after obtaining inputs from various stakeholders, is aimed at enhancing the cybersecurity posture of UCBs against evolving IT and cyber threat environment, the RBI said. The 12 specific action points suggested in the document include - more board oversight over cybersecurity; enabling UCBs to better manage and secure their IT assets; and setting up offsite supervisory mechanism framework on cybersecurity-related controls. 
+It also includes developing a forum for UCBs so help them share best practices and discuss practical issues and challenges; and creating a framework for providing awareness/ training. "The implementation of the approach outlined in this Technology Vision document will strengthen the cyber resilience of the Urban Co-operative Banks," the RBI said. 
+Observing that the cybersecurity landscape will continue to evolve with wider adoption of digital banking channels, necessitating the UCBs to manage the associated risks effectively, the RBI said "active collaboration within UCBs and their stakeholders would be necessary for sharing and coordinating various measures taken on cybersecurity aspects." 
+Use of information technology by banks has grown rapidly and is now an important part of the operational strategy of banks. In October 2018, the RBI had issued a circular prescribing basic cybersecurity controls for all the UCBs.
+nd regret any concern or inconvenience this incident may cause.”
+The breach has raised eyebrows for the sheer quantity and sensitivity of the data involved.
+As software consultant Allen Holub points out on Twitter: “Why does the HR system need passport numbers or the password to your bank account? I can’t imagine a scenario where that sort of information should be stored in an HR system.”
+And, says security pro Troy Hunt: “Time to just start life again when that much personal data is leaked.”
+This article has been updated to include comment from Waste Management Resources.
+YOU MIGHT ALSO LIKE International cybercrime gang charged with Covid-19 business email compromise fraud
+
+
+Emma Woollacott
+
+
+
+@EmmaWoollacott 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+mpanies and vaccine researchers in Canada, France, India, South Korea and the US, and came from Strontium, an actor originating from Russia, and two bad actors originating from North Korea called Zinc and Cerium.
+In one of the biggest attacks in the Indian healthcare sector, Dr Reddy's Laboratories confirmed a ransomware attack this year.
+There are no signs that these attacks will slow down in any manner in the coming year which only underline the importance of strengthening the cyberspace with greater security with new tools and policies.
+he discovery of the unspecified malware variant remains unsubstantiated. However, this disclosure provides additional evidence suggesting the coordinated targeting of Indian Load Dispatch Centres.”
+Red Echo, the Chinese group behind the intrusion, was described by Reported Future as having clear overlaps – in terms of both the technologies it hires and the victims it targets – with other organisations, 

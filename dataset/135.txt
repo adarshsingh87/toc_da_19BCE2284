@@ -1,0 +1,36 @@
+Life Healthcare is investigating extent to which patients’ data has been compromised
+
+Life Healthcare, a South African healthcare provider, is investigating a cyber-attack that targeted some of the group’s IT systems.
+In a security alert issued today (June 9), the company, which operates dozens of healthcare facilities across South Africa and Botswana, said it had become the victim of a “targeted criminal attack”.
+While the advisory offers little in the way of technical details, Life Healthcare said it immediately took systems offline as it sought to contain the incident.
+“The extent to which sensitive data has been compromised is yet to be ascertained, as we are still in the process of investigating,” the organization said.
+“External cybersecurity experts and forensic teams have been brought on board to advise and supplement our internal teams and capacity.”
+Life Healthcare oversees the operation of 49 hospitals and dozens of ancillary healthcare facilities across seven South African provinces and Botswana.
+According to the organization, patient care has not been impacted by the cyber-attack, although some hospitals and administrative offices have switched to manual backup systems.
+Pieter Van der Westhuizen, acting group CEO, decried the attack, which came as hospitals across the region continue to be stretched by the coronavirus pandemic.
+“First, and foremost, we wish to assure all the communities within which we operate, that this criminal attack on our systems will not affect the quality care and clinical excellence we aim to provide,” Van der Westhuizen said.
+“We are deeply disappointed and saddened that criminals would attack our facilities during such a time, when we are all working tirelessly and collectively to fight the Covid-19 pandemic.
+“However, we will not be distracted, and will continue to place our patients first. We regret that the disruption caused by this criminal act may cause our patients some frustration, in what is already a trying time.”
+Life Healthcare has alerted the relevant authorities and has also published a Q&A (PDF) for potentially impacted patients.
+READ MORE US healthcare admin firm admits data breach
+
+
+James Walker
+
+
+
+@jameswalk_er 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+ crashed in on his soliloquy. I sympathise whenever it happens at meetings, weddings, carol services or when someone's tearfully coming out. I sympathise because one day it will happen to me.
+
+However careful I am with my phone - and, as a slightly obsessive person, I'm pretty careful - there are times when I take it out, utterly convinced that it's been switched off for hours, and find five bars beaming back from my hand, as incriminating as a gory dagger. Most of the time, I check it every 30 seconds. But sometimes I just don't. My fastidious self-image deceives me into carelessness. At some point, I'm going to come a cropper. And when that shaming moment comes, as I fumble in my trousers by the heat of a hundred stares, I want to be surrounded by people who accept that this could happen to anyone, and might believe that this is an issue about which I'm at least averagely diligent.
+
+That's not how it'll be, though. Our attitudes to accidental phone rings are stuck in the 80s. Even though the mobile has long since ceased to be a cutting-edge gadget possessed only by the high-earning early-adopting few, when one goes off inappropriately, we still visualise a shameless yuppie in red braces, Aston Martin double-parked outside, closing deals - an offensive symbol of profligate and faddish modernity.
+
+This is hopelessly out of step with what these machines now mean to us. Research just published by a team at the University of Missouri shows that, when a sample of 40 people were temporarily deprived of their iPhones, their heart rate and blood pressure rose, and their ability to perform tasks suffered. Our mobiles, the paper suggests, are now "an extension of our physical selves, an umbilical cord, anchoring the information

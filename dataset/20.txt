@@ -1,0 +1,51 @@
+Intelligent CISO
+Covering Security Across Borders
+Security company Verkada is reported to have been the victim of a hack of up to 150,000 security cameras.
+The attack targeted a Jenkins server used by its support team to perform bulk maintenance operations on customer cameras, such as adjusting camera image settings upon customer request. The attackers gained access to this server on March 7, 2021 and maintained access until March 9, 2021.
+In gaining access to the server, the attackers obtained credentials that allowed them to bypass the authorization system, including two-factor authentication.
+A statement from Verkada confirmed that attackers had obtained the following:
+Max Heinemeyer, Director of Threat Hunting at Darktrace, said: “This attack serves as yet another reminder that complex digital supply chains are a hacker’s paradise.“
+Candid Wüest, VP Cyber Security Research at Acronis said: “(Verada) must secure the configuration, restrict access where it must be restricted, remove default accounts and use strong passwords. They also have to update systems frequently, monitor access logs and separate devices from the rest of the network whenever possible.”
+Intelligent CISO is a technology intelligence platform aimed at the enterprise sector looking for updates and research driven data about cybersecurity. As part of Lynchpin Media, this digital medium gives unparalleled advice to the global community.
+UK Head Office         
+63/66 Hatton Garden 
+London, EC1N 8LE
+Phone: +44 (0) 20 3026 6825
+Browse our latest issue
+View Magazine Archive
+the issue.
+All users should upgrade to the latest version of Node.js to be protected against the flaws. More information can be found at the Node.js blog.
+
+
+The security advisory was released on the same day that a research paper (PDF) related to this topic was published.
+Researchers Philipp Jeitner and Haya Shulman are due to discuss their work at the Usenix conference, which is held virtually today.
+In the research, titled ‘Injection Attacks Reloaded: Tunnelling Malicious Payloads over DNS’, they demonstrate “a new method to launch string injection attacks by encoding malicious payloads into DNS records”.
+RELATED Potential remote code execution vulnerability uncovered in Node.js apps
+
+
+
+Jessica Haworth
+
+
+
+@JesscaHaworth 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+ces. One Christmas when they were playing chess, my friend took the baby Jesus from the small creche under the Christmas tree to replace one of his lost pieces. My friend then began to move all over the board, going after his brother's pieces.
+
+"You can't do that," his brother said, "that's illegal."
+
+"Oh, yes I can," my friend said. "This is Jesus and he can do whatever he wants to do."
+
+Jesus does as he pleases and he does it right well. At Christmas he decided to love and, then, clean up the mess later.
+
+So I think I'll opt out of the war. The King was doing fine before I came along and will do fine long after I'm gone. He doesn't need my defense.
+
+So, Merry Christmas or...uh .... Happy Holidays.
+
+Whatever.iew.It's all too clear that America and the world have no hope of stopping these never-ending barbaric acts until a Reagan-like figure steps up. A leader who will honestly and courageously define such terrorism as it really is: An Islamist's interpretation of the Koran.That's the definition recently used by President el-Sisi of Egypt, a man of far greater honesty and courage than America's current counterpart.Only with an American leader of Reagan-like strength will we be able to develop a plan and the determination to defeat the dark ideology of Islamism, just like Reagan managed to defeat the Soviet Union and its evil ideology.Dr  Michael Youssef is the founding pastor of the Church of the Apostles in Atlanta, Georgia and the author of over 30 books, including his most recent, Jesus, Jihad &amp; Peace: What Does Bible Prophecy Say About World Events Today? (Feb  17, 2015, Worthy Publishers). Find him online at ww

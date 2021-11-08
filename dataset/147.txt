@@ -1,0 +1,47 @@
+Cyber-attack forces GGPoker website offline
+
+A popular Asian poker site suffered a DDoS attack on the opening day of the World Series of Poker tournament this week, the company has confirmed.
+Yesterday (July 20), a distributed denial-of-service (DDoS) attack forced systems offline, disrupting WSOP Online Bracelet Series games.
+GGPoker, which mainly serves the Asian market but has customers across Europe and America, claims that it migrated servers to a new cloud data center on July 16 to improve performance and account for increased load during the tournament.
+However, it claims, “the tech team made a mistake of not shielding this server with our DDoS protection service after the migration”.
+A subsequent DDoS attack forced systems offline for around two hours.
+GGPoker posted on its Twitter account yesterday: “We apologize for everything that has happened today. A critical bug has been found, and we need to postpone WSOP Event #32 and #33 to next week.”
+It added: “The bug was caused by an overwhelming number of players joining The Opener and other side events.
+“The tournament servers were unable to resume due to high loads. We will increase more capacity (we just doubled it) to make sure future events run smoothly.”
+After apparently fixing the connectivity issues, GGPoker said it experienced a DDoS attack starting at around 01:12 UTC on July 20.
+GGPoker published an incident report on July 20
+In its analysis of the incident GGPoker said it has taken steps to protect against future incidents, including adding the configuration server to its CloudFlare DDoS protection and adding a “second layer of DDoS protection”.
+It details how a temporary fix was added during server downtime, and states that the company will issue more stable fixes before July 24.
+The post reads: “At the worst case, even if these incidents were to happen again, we will add code to manually re-start the tournaments affected by July 24.”
+GGPoker has offered compensation to players who were cut off from the tournament in the form of in-play credits, though this has done little to appease everyone.
+Some players claim that the outage caused them to lose money after others “stole their blinds” while they were unable to access the site.
+READ MORE Security firms track ‘dramatic rise’ in DDoS attacks
+
+
+Jessica Haworth
+
+
+
+@JesscaHaworth 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+ is the National Guard that is being considered as an option by Iraqi politicians. This force would, in theory, be trained, equipped and paid by the federal government, whilst being recruited and operated by the provincial councils.
+
+In a step towards this concept, a 5,000-strong US-equipped Tribal Security Force brigade has been provided with $13.5 million worth of US weapons and training in the new US Department of Defense budget.
+
+It is now up to Iraq's government whether the country will pay these troops as part of the first National Guard units in the forthcoming 2015 budget.
+
+It is also unclear exactly which ministry would administer the training, equipping and paying of National Guard troops: the US-backed Ministry of Defense (MoD) under Minister Khalid al-Ubeidi, a Sunni from Mosul, or the MoI, led by Badr leader Mohammed Ghabban, a close lieutenant of Badr leader Hadi al-Amiri.
+
+The scheme could become a way of permanently employing the Popular Mobilisation forces in the National Guard units of the predominately-Shia southern provinces.
+
+With the Kurdish Peshmerga representing another large force of around 54 brigades with 113,000 troops, the Iraqi army is thus on-track to become one of the smaller security forces in Iraq.
+
+In 2015, the army's performance and the international support provided to Iraq's MoD will be critical factors in determining the future of this proud institution.
+
+In the background,  the slow process of rebuilding the army has already begun. New half-manned brigades are popping up at training bases in Nasiriya, Kirkush and at the collection points 

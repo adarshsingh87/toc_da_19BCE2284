@@ -1,0 +1,33 @@
+South Korea Foils North Koreas Attempt to Hack Covid-19 Vaccine Makers: Reports", FILE PHOTO: A North Korean flag flies on a mast at the Permanent Mission of North Korea in Geneva October 2, 2014.   REUTERS/Denis Balibouse, Lawmaker Ha Tae-keung said after being briefed by the National Intelligence Service that the agency did not specify how many and which drugmakers were targeted but said there was no damage from the hacking attempts., Reuters,  SEOUL, Last Updated:, November 27, 2020, 09:28 IST, FOLLOW US ON:, Facebook, Twitter, Instagram, Telegram, Google News, South Korea’s intelligence agency foiled North Korean attempts to hack into South Korean companies developing coronavirus vaccines, the News1 agency reported on Friday, citing a member of the parliamentary intelligence committee., Lawmaker Ha Tae-keung said after being briefed by the National Intelligence Service that the agency did not specify how many and which drugmakers were targeted but said there was no damage from the hacking attempts, News1 said., Last week, Microsoft said hackers working for the Russian and North Korean governments have tried to break into the networks of seven pharmaceutical companies and vaccine researchers in South Korea, Canada, France, India and the United States.e information, passport numbers and usernames, email addresses, and passwords for financial electronic accounts.
+
+
+While the company discovered this on June 21, its alert was not issued until this week.
+Waste Management Resources is recommending that those affected check their credit report and ask for either a fraud alert or a credit freeze to be placed on it.
+“Waste Management takes the security and privacy of the data within our network very seriously," a company spokesperson told The Daily Swig.
+“Earlier this year, we became aware of a cybersecurity incident and immediately opened an investigation into the matter with third-party forensic specialists and notified the FBI.
+“Through that investigation, we determined that this incident may have impacted certain job application and employment-related information.”
+The spokesperson added: “There have been no business interruptions as we have worked to address this matter. We have implemented additional safeguards relating to data security and regret any concern or inconvenience this incident may cause.”
+The breach has raised eyebrows for the sheer quantity and sensitivity of the data involved.
+As software consultant Allen Holub points out on Twitter: “Why does the HR system need passport numbers or the password to your bank account? I can’t imagine a scenario where that sort of information should be stored in an HR system.”
+And, says security pro Troy Hunt: “Time to just start life again when that much personal data is leaked.”
+This article has been updated to include comment from Waste Management Resources.
+YOU MIGHT ALSO LIKE International cybercrime gang charged with Covid-19 business email compromise fraud
+
+
+Emma Woollacott
+
+
+
+@EmmaWoollacott 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+mpanies and vaccine researchers in Canada, France, India, South Korea and the US, and came from Strontium, an actor originating from Russia, and two bad actors originating from North Korea called Zinc and Cerium.
+In one of the biggest attacks in the Indian healthcare sector, Dr Reddy's Laboratories confirmed a ransomware attack this year.
+There are no signs that these attacks will slow down in any manner in the coming year which only underline the importance of strengthening the cyberspace with greater security with new tools and policies.
+he discovery of the unspecified malware variant remains unsubstantiated. However, this disclosure provides additional evidence suggesting the coordinated targeting of Indian Load Dispatch Centres.”
+Red Echo, the Chinese group behind the intrusion, was described by Reported Future as having clear overlaps – in terms of both the technologies it hires and the victims it targets – with other organisations, 

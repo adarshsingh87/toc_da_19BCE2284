@@ -1,0 +1,36 @@
+Dozens of employees’ email accounts were compromised, investigation reveals
+
+The email accounts of 47 workers at Service NSW, the government information office for the Australian state of New South Wales, have been compromised following a cyber-attack.
+The incident was discovered on April 22, and although it’s not known how much customer information was accessed, Service NSW says forensic specialists are investigating.
+Although Service NSW offered little in the way of technical details, multiple Australian news outlets are reporting that the business email compromise (BEC) attack was the result of at least one employee falling victim to a phishing scam.
+Only customers served by one of the 47 team members are believed to have been affected, the agency said.
+Account data for the MyServiceNSW resident portal has not been compromised, says Service NSW, and there’s no risk to transactions carried out online or via mobile.
+“We are now working as quickly as possible to confirm the scope of this attack on the personal information of our customers,” said Service NSW CEO Damon Rees.
+“We are now confident the criminal access was limited to the content of those email accounts, which are related to transactions over the phone or over-the-counter at a Service NSW Centre.”
+Service NSW says it’s set up a dedicated team that will contact customers who have been affected, and is advising them to check for unauthorized transactions or changes to settings, and to reset all passwords and PINs.
+While Australia’s Privacy and Personal Information Protection Act does not require government agencies to report data breaches to the privacy commissioner or affected individuals, New South Wales has pledged to introduce the requirement.
+Service NSW says that relevant state and federal cybersecurity agencies have been briefed on the incident, along with the NSW Information and Privacy Commission.
+“This is a very complex issue and the analysis and investigation are both ongoing,” says Rees.
+The Daily Swig has approached the agency for additional comment.
+YOU MIGHT ALSO LIKE Data breach at Indian learning platform Unacademy exposes millions of user accounts
+
+
+Emma Woollacott
+
+
+
+@EmmaWoollacott 
+
+Burp Suite
+Vulnerabilities
+Customers
+Company
+Insights
+© 2021 PortSwigger Ltd.
+ of the 63,000 a year that are needed to solve the city's housing crisis. That Boris Johnson has missed his own affordable housing targets in every year of his mayoralty is an abject failure of political leadership. The government's unwillingness to commit to vital transport infrastructure, such as Crossrail 2 and new Thames bridges, is scarcely better.
+
+History shows us what can be achieved when politicians take population growth seriously and rise to the challenges it creates. In the midst of the second world war, even as bombs fell and the city burned, a plan was devised to respond to London's growth. The Abercrombie plan, officially called the Greater London plan, laid out an ambitious vision for a new postwar London: decent housing replacing slums, efficient transport, full employment, new parks and open spaces. It was a radical and comprehensive document that provided the detail for rebuilding London after the devastation of the war. New towns including Stevenage and Crawley were built in the south-east; modern transport infrastructure, including the north and south circular roads, was planned to cope with the increasing number of cars. The requirements of a successful London were drawn up and implemented.
+
+A growing population and new pressures on services mean we need a new, equally ambitious plan today. Empty words about more homes and better jobs will not cut it; they are no substitute for a serious and detailed proposal for building at least 63,000 homes a year and rebalancing the city's economy to create jobs and opportunities for Londoners while continuing to invest in the industries of tomorrow.
+
+The city's creaking transport system must be upgraded, with Crossrail 2 and other new infrastructure built. This must hap
